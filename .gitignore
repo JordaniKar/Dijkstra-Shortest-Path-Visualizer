@@ -1,0 +1,19 @@
+# Compiled Object files and Executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+*.lib
+
+# Code::Blocks specific files and directories
+bin/
+obj/
+*.layout
+*.depend
+*.depend.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
